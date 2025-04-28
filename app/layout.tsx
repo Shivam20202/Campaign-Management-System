@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Campaign Management System",
   description: "Manage campaigns and generate personalized outreach messages",
-    generator: 'v0.dev'
+    generator: 'shivam'
 }
 
 export default function RootLayout({
